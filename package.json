@@ -1,6 +1,6 @@
 {
   "name": "ethan",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Displays my name.",
   "main": "index.js",
   "dependencies": {
@@ -17,5 +17,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Inclushe/ethan.git"
+  },
+  "bin": {
+    "ethan": "./bin/ethan"
   }
 }
