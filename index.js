@@ -2,6 +2,7 @@ const chalk = require('chalk')
 const open = require('opn')
 
 const links = {
+  'website': 'https://inclushe.com',
   'twitter': 'https://twitter.com/inclushe',
   'codepen': 'https://codepen.io/inclushe',
   'github': 'https://github.com/Inclushe',
